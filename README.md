@@ -96,6 +96,8 @@ A production-style microservices architecture handling orders and payments with 
 - Redis caching for high-performance reads
 - Containerized deployment via Docker Compose
 
+[![Repo](https://img.shields.io/badge/GitHub-SWA-181717?style=flat-square&logo=github)](https://github.com/Minhhau32223/SWA)
+
 </td>
 <td width="50%">
 
@@ -144,6 +146,8 @@ An e-commerce website specialized for badminton equipment, with product manageme
 - Product listing & search
 - Shopping cart & checkout flow
 - Admin dashboard for order management
+
+[![Repo](https://img.shields.io/badge/GitHub-WEB__EC__BADMINTON-181717?style=flat-square&logo=github)](https://github.com/Minhhau32223/WEB_EC_BADMINTON)
 
 </td>
 </tr>
